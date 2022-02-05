@@ -1,0 +1,3 @@
+Nume de utilizator: utilizator1 
+Numar cont: 32768 
+Sold: 31769.037109 
